@@ -1,1 +1,4 @@
-# python-data-structures-Coursera-
+# python-data-structures-Coursera
+
+University of Michigan
+Assignments
